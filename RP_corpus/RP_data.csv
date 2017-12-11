@@ -1,4 +1,4 @@
-id;Name;Title;Publication;Year;period;G_title;Comment;pub_year;pub_type;Meter;Regularity;Rhyme;Type;Meter;Syllab;Clausula;Fin;melody;melody_src
+id;Name;Title;Publication;Year;period;G_title;Comment;pub_year;pub_type;Meter;Regularity;Rhyme;Type;Meter2;Syllab;Clausula;Fin;melody;melody_src
 1;-въ;Звезда, звезда;Цинтия на 1832. М., 1831. С. 132-133;1831;1830;Песня;;1831;periodical;Я21мд;reg;unrhymed;core;Я;21;мд;рз;no;
 2;Б/П;Что ты, конь-донец лихой;Литературная газета. 1840. № 13, февраля 14. С. 298;1840;1830;Конь;;1840;periodical;Х4ммжмжм;unreg;rhymed;core;Х;4;ммжмжм;4;no;
 3;Б/П;Ты почем, сердечко;Литературная газета. 1840. № 61, 31 июля. С. 1365;1840;1830;К сердечку;;1840;periodical;Х3ж;unreg, сбои, сверхсхемные, амф;occ;core;Х;3;ж;3;no;
