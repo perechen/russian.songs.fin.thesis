@@ -63,7 +63,7 @@ Materials for the doctoral thesis: А. Шеля. Русская песня в л
   * ~120 тыс. слов
 3. [**sobolevsky.txt**](/Stylometry/corpus/SOBOLEVSKY.txt). Собрание Соболевского. Дополнительный контрастивный корпус фольклорной песни
   * ~500 тыс. слов
-4. [**pesenniki.txt**](/Stylometry/corpus/SONGBOOKS.txt). Песенники (1800-1840-е). Раздел "Простонародная песня" из больших сводных песенников первой половины XIX в.
+4. [**pesenniki.txt**](/Stylometry/corpus/PESENNIKI.txt). Песенники (1800-1840-е). Раздел "Простонародная песня" из больших сводных песенников первой половины XIX в.
   * ~20 тыс. слов
 5. [**ruscorpora.txt**](/Stylometry/corpus/RUSCORPORA.txt). Популяция русской поэзии первой половины XIX в., составленная по поэтическому подкорпусу [**НКРЯ**](http://ruscorpora.ru/search-poetic.html) 
   * ~1.9м слов  
